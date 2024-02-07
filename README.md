@@ -1,1 +1,1 @@
-# fastapi-react
+# tutorial_fastapi_react
